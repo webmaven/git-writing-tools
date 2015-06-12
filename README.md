@@ -10,6 +10,7 @@ A list of writing tools that use Git and/or GitHub as their backend.
 |[ReadTheDocs](https://readthedocs.org/)|:white_check_mark:|:white_check_mark:|[:white_check_mark:](https://github.com/rtfd/readthedocs.org)|Also supports Subversion, Mercurial, and Bazaar|
 |[PenFlip](https://www.penflip.com/)|[:white_check_mark:](https://www.penflip.com/Penflip/help/blob/master/working-offline/WorkingOffline.txt)|:x:|:x:||
 |[Prose.io](http://prose.io)|:x:|:white_check_mark:|[:white_check_mark:](https://github.com/prose/prose)|Only edits content in a repo|
+|[O'Reilly Atlas](https://atlas.oreilly.com/)|[:white_check_mark:](http://docs.atlas.oreilly.com/ch09.html#atlas-git)|:x:|:x:||
 
 ## Contributing
 
