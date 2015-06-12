@@ -8,6 +8,11 @@ A list of writing tools that use Git and/or GitHub as their backend.
 |[GitBook](https://www.gitbook.com/)|GitBook only| [:white_check_mark:](http://help.gitbook.com/github/index.html)|[:white_check_mark:](https://github.com/GitbookIO/gitbook)||
 |[Leanpub](https://leanpub.com)|:x:|[:white_check_mark:](https://leanpub.com/help/getting_started_sync_github)|:x:||
 |[ReadTheDocs](https://readthedocs.org/)|:white_check_mark:|:white_check_mark:|[:white_check_mark:](https://github.com/rtfd/readthedocs.org)|Also supports Subversion, Mercurial, and Bazaar|
+|[PenFlip](https://www.penflip.com/)|[:white_check_mark:](https://www.penflip.com/Penflip/help/blob/master/working-offline/WorkingOffline.txt)|:x:|:x:||
+
+## Contributing
+
+If you know of other tools or services that facilitate writing and use Git or GitHub as a storage and collaboration backend (even if not the default one), please create an issue or a pull request to add it to the list.
 
 
 ## License
