@@ -1,5 +1,11 @@
 # Git Writing Tools
-A list of writing tools that use Git and/or GitHub as their backend
+A list of writing tools that use Git and/or GitHub as their backend.
+
+## The Tools
+
+|Name|Git Integration|GitHub Integration|Open Source|Notes|
+|:--:|:-------------:|:----------------:|-----------|-----|
+|[GitBook](https://www.gitbook.com/)|GitBook only| [:white_check_mark:](http://help.gitbook.com/github/index.html)|[:white_check_mark:](https://github.com/GitbookIO/gitbook)||
 
 ## License
 
