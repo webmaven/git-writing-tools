@@ -3,6 +3,8 @@ A list of writing tools that use Git and/or GitHub as their backend.
 
 ## The Tools
 
+The symbol :white_check_mark: usually links to further information.
+
 |Name|Git Integration|GitHub Integration|Open Source|Notes|
 |:--:|:-------------:|:----------------:|:---------:|-----|
 |[GitBook](https://www.gitbook.com/)|[:white_check_mark:](http://help.gitbook.com/build/push.html)| [:white_check_mark:](http://help.gitbook.com/github/index.html)|[:white_check_mark:](https://github.com/GitbookIO/gitbook)|Also supports [other external Git repos](https://www.gitbook.com/blog/features/import-github) for importing|
